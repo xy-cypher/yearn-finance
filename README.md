@@ -23,6 +23,14 @@ And then populate .env with your endpoints
 
 ## Development
 
+### Plebs:
+_Slowly train us ser to go on GitHub and install UIs ourselvs_
+
+### @bantg:
+_You literally run `yarn dev` and it does everything for you, even opens the browser._
+
+https://twitter.com/bantg/status/1441200591410130945
+
 ```
 $ yarn dev
 ```
